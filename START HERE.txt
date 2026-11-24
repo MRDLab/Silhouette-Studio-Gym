@@ -1,0 +1,16 @@
+Silhouette Studio Gym
+Portable app for 64-bit Windows
+
+Open the app
+
+1. Right-click the ZIP and choose Extract All.
+2. Open the extracted Silhouette Studio Gym folder.
+3. Double-click Silhouette Studio Gym.exe to open the app window.
+
+Keep the _internal folder next to the EXE. It contains the files the app needs.
+
+Build a Gym
+
+Open a segmented STL or choose Try an example. Click Build gym, then Next: Build 3D gym. The acrylic recess starts enabled. Type the sheet dimensions, per-side clearance, and shelf width in millimeters. Click Build 3D gym after editing, then Export STEP.
+
+The ZIP includes a synthetic example in both DXF and STEP formats. On a managed PC, ask the device administrator to approve this build if Windows blocks the executable under its application control policy.
